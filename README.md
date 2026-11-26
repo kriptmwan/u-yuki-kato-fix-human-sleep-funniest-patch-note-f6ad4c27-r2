@@ -10,7 +10,7 @@ Competition: https://make.fun/bounty/u-yuki-kato-fix-human-sleep-funniest-patch-
 `main.py` writes a single line of patch notes (under 160 characters) to
 `/output/entry.txt`:
 
-> Fixed: sleep now auto-saves every 90 minutes. Dream deaths now respawn at the last checkpoint.
+> Fixed a bug where sheep were required to fall asleep. Sheep have been laid off; sleep now starts instantly.
 
 ## Run
 

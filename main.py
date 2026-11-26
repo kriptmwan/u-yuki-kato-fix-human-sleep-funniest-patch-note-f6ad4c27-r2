@@ -8,8 +8,8 @@ human sleep is fixed, to /output/entry.txt for the make.fun judge.
 import os
 
 PATCH_NOTE = (
-    "Fixed: sleep now auto-saves every 90 minutes. "
-    "Dream deaths now respawn at the last checkpoint."
+    "Fixed a bug where sheep were required to fall asleep. "
+    "Sheep have been laid off; sleep now starts instantly."
 )
 
 
